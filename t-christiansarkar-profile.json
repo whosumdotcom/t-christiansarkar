@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T10:00:26Z",
+  "IdClaims": [
+    {
+      "Claim": "t:christiansarkar"
+    },
+    {
+      "Claim": "mdon:@christiansarkar@mas.to"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "aefad10237f99dc7be8ba378",
+    "Timestamp": "2023-04-06T10:39:58Z",
+    "Signature": "59085edb2952e683644c9fe8e59c19a520ba3f0eecc8512fbf67ade3b8dab088fce3a5d1f5a1782bd0611dae6f55a882091aa0ea6a8d812ad623778c587b28366893535372e16fad390b23548449ecee229a504dcd07d662ee32c5f53d8ff2cd8976b608ba3185a8d1c3a47aee795ff542af7b6bd0d9ad2802f9e07507757b58014a8bd13a99aece90d5b9589cf53528957dba01b4ebed7f4d62efa1660496f94f654e1f21cdfed47227f1793a096cf3bb97570b29f58d5aa959e1381c0b61ced4d393fe103ca1fa12b44a15aa7efd34dd431a30681c13b5ff9c09b69948f1a70391e70507c8500f5ea491646d84d1357db7d389f53f73dad293c2f94c04ba69"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "91ad098bc6c3b491648f0323680c28515005cf4729f934f11a6d852e2d37b6ca",
+  "ContentToHash": "v1|mdon:@christiansarkar@mas.to,t:christiansarkar|2023-04-06T10:00:26Z"
+}
